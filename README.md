@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:7c3aed&height=200&section=header&text=Shashvendra%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20Artificial%20Intelligence%20%26%20Machine%20Learning&descSize=16&descAlignY=58" width="100%" alt="Shashvendra Yadav banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Shashvendra%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Machine%20Learning%20%7C%20Python&descAlignY=65" width="100%" alt="Shashvendra Yadav banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Python+Developer;DSA+Learner+%7C+Problem+Solver;Building+Projects+and+Learning+Every+Day" alt="Typing animation"/>
 
